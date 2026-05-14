@@ -13,11 +13,15 @@ This is not just a camera app. It is a practice.
 ##  Screenshots
 
 
-| Palette Screen | Camera Screen | Gallery Screen |
-|:-:|:-:|:-:|
-| ![Landing Screen](screenshots/landingPage.jpg) | ![Camera Screen](screenshots/viewFinder.jpg) | ![Gallery Screen](screenshots/gallery.jpg) | | ![Color Generator Screen](screenshots/chooseColorPage.jpg) |
-
-
+| Palette Screen | Color Generator Screen |
+|:-:|:-:|
+| ![Landing Screen](screenshots/landingPage.jpg) | ![Color Generator Screen](screenshots/chooseColorPage.jpg) |
+| Camera Screen | 
+|:-:|
+| ![Camera Screen](screenshots/viewFinder.jpg) | 
+| Gallery Screen |
+|:-:|
+![Gallery Screen](screenshots/gallery.jpg) |  
 ---
 
 ##  The Idea
