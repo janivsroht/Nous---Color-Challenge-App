@@ -147,7 +147,3 @@ app/src/main/java/com/example/nousappathon/
 PRs are welcome! Please open an issue first to discuss any significant changes. For bugs, include your device model and Android version.
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
