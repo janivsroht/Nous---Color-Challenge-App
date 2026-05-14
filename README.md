@@ -15,7 +15,7 @@ This is not just a camera app. It is a practice.
 
 | Palette Screen | Color Generator Screen |
 |:-:|:-:|
-| ![Landing Screen](screenshots/landingPage.jpg) | ![Color Generator Screen](screenshots/chooseColorPage.jpg) |
+| ![Landing Screen](screenshots/langingPage.jpg) | ![Color Generator Screen](screenshots/choosingColorPage.jpg) |
 | Camera Screen | 
 |:-:|
 | ![Camera Screen](screenshots/viewFinder.jpg) | 
