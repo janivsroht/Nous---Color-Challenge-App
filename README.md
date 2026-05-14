@@ -121,7 +121,7 @@ app/src/main/java/com/example/nousappathon/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/[your-username]/NousAppathon.git
+   git clone https://github.com/janivsroht/Nous---Color-Challenge-App.git
    ```
 
 2. **Open in Android Studio**
